@@ -39,12 +39,12 @@ h1{
   }
   
   .navbar li a:hover:not(.active) {
-    background-color: #111;
-  }
-  
-  .active {
     background-color: #3586ff;
   }
+  
+  /*.active {
+    background-color: #3586ff;
+  }*/
 body
 {
     background-color:black;
